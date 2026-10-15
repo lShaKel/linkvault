@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="378b9793-f965-40ea-964d-746634a2c8d5" name="Changes" comment="chore: project setup">
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/CreateLink.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/DeleteLink.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/UpdateLink.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/links/[id]/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/links/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/delete-button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/link-form/link-form-container.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/link-form/link-form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/submit-button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/links/[id]/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/links/new/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/links/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/prisma.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/safe-action.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/link-form.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "lShaKel"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/lShaKel/linkvault.git",
+    "accountId": "75be251a-b09f-4ad4-be7b-49364aea4db5"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3KaOsfcV4K58UgJQlFmrvRyn9ST" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "js.debugger.nextJs.config.created.client": "true",
+    "js.debugger.nextJs.config.created.server": "true",
+    "last_opened_file_path": "C:/JS/REACT/nextjs_project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\JS\\REACT\\nextjs_project\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\JS\REACT\nextjs_project\src\app\components\link-form" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Next.js: server-side">
+    <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <configuration name="Next.js: server-side" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.27397.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="378b9793-f965-40ea-964d-746634a2c8d5" name="Changes" comment="" />
+      <created>1791792420865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791792420865</updated>
+      <workItem from="1791792422254" duration="73000" />
+      <workItem from="1791792532205" duration="2233000" />
+      <workItem from="1791794799106" duration="283000" />
+      <workItem from="1791795098256" duration="11750000" />
+      <workItem from="1791812918775" duration="72000" />
+      <workItem from="1791877623992" duration="2167000" />
+      <workItem from="1791879835275" duration="8778000" />
+      <workItem from="1791965258140" duration="13189000" />
+      <workItem from="1792006629625" duration="995000" />
+      <workItem from="1792042870643" duration="1247000" />
+    </task>
+    <task id="LOCAL-00001" summary="chore: project setup">
+      <option name="closed" value="true" />
+      <created>1792043378703</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1792043378703</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.prisma" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chore: project setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: project setup" />
+  </component>
+</project>

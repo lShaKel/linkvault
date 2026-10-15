@@ -1,0 +1,18 @@
+services:
+  postgres:
+    image: docker.io/library/postgres:18.3
+    restart: unless-stopped
+
+    environment:
+      - POSTGRES_USER=postgresProject
+      - POSTGRES_PASSWORD=postgresPassword
+      - POSTGRES_DB=Next-project-db
+
+    ports:
+      - "5432:5432"
+
+    volumes:
+      - postgres_data:/var/lib/postgresql
+
+volumes:
+  postgres_data:
