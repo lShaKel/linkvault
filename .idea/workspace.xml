@@ -4,23 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="378b9793-f965-40ea-964d-746634a2c8d5" name="Changes" comment="chore: project setup">
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/actions/CreateLink.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/actions/DeleteLink.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/actions/UpdateLink.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/api/links/[id]/route.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/api/links/route.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/delete-button.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/link-form/link-form-container.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/link-form/link-form.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/submit-button.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/links/[id]/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/links/new/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/links/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/prisma.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/safe-action.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/types/link-form.ts" afterDir="false" />
+    <list default="true" id="378b9793-f965-40ea-964d-746634a2c8d5" name="Changes" comment="feat(pages): add links list, create and edit pages">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +99,7 @@
       <workItem from="1791879835275" duration="8778000" />
       <workItem from="1791965258140" duration="13189000" />
       <workItem from="1792006629625" duration="995000" />
-      <workItem from="1792042870643" duration="1247000" />
+      <workItem from="1792042870643" duration="1878000" />
     </task>
     <task id="LOCAL-00001" summary="chore: project setup">
       <option name="closed" value="true" />
@@ -123,7 +109,47 @@
       <option name="project" value="LOCAL" />
       <updated>1792043378703</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat(db): add prisma client and docker compose">
+      <option name="closed" value="true" />
+      <created>1792044311684</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1792044311684</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat(api): add links REST routes">
+      <option name="closed" value="true" />
+      <created>1792044340679</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1792044340679</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat(actions): add link server actions with validation">
+      <option name="closed" value="true" />
+      <created>1792044388401</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1792044388401</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat(ui): add link form and shared components">
+      <option name="closed" value="true" />
+      <created>1792044412013</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1792044412013</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat(pages): add links list, create and edit pages">
+      <option name="closed" value="true" />
+      <created>1792044425088</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1792044425088</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +160,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chore: project setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: project setup" />
+    <MESSAGE value="feat(db): add prisma client and docker compose" />
+    <MESSAGE value="feat(api): add links REST routes" />
+    <MESSAGE value="feat(actions): add link server actions with validation" />
+    <MESSAGE value="feat(ui): add link form and shared components" />
+    <MESSAGE value="feat(pages): add links list, create and edit pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(pages): add links list, create and edit pages" />
   </component>
 </project>
